@@ -22,14 +22,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" />
 </div>
 
-**Estatísticas GitHub:**
+### Estatísticas dos Repositórios
 
-<div>
-  <a href="https://github.com/jonasqasoftware">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasqasoftware&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasqasoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+[![Estatísticas dos Repositórios](https://github-readme-stats.vercel.app/api?username=jonasqasoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/jonasqasoftware)
+
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasqasoftware&layout=compact&langs_count=7&theme=dracula)](https://github.com/jonasqasoftware)
+
 
 
 **Contatos:**
