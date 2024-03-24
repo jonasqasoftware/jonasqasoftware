@@ -28,8 +28,6 @@
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasqasoftware&layout=compact&langs_count=7&theme=dracula)](https://github.com/jonasqasoftware)
 
-![Estatísticas do GitHub de jonasqasoftware](https://github-readme-stats.vercel.app/api?username=jonasqasoftware&count_private=true)
-
 
 **Contatos:**
 
