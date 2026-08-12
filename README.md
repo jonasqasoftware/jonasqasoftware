@@ -1,58 +1,43 @@
-# Olá! Eu sou [Jonas Davila](https://github.com/jonasqasoftware), bem-vindo ao meu perfil GitHub! 👋
+# Jonas Davila da Silva
 
-**Aqui está um pouco sobre mim:**
+## Senior QA Engineer · Quality Engineering · Test Strategy
 
-- 🔭 Atualmente estou trabalhando em projetos de qualidade de software e automação de testes.
-- 🌱 Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades.
-- 💬 Pergunte-me sobre práticas de qualidade de software, testes automatizados e desenvolvimento ágil.
-- 📫 Como entrar em contato comigo: [Email](jonas.qa.software@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jonasdavila/)
-- 😄 Pronomes: Ele/Dele
+I help teams make quality decisions visible, testable, and proportionate to risk. My work connects test strategy, sustainable automation, API quality, performance, accessibility, security, CI/CD, and useful engineering metrics.
 
-  
-**Tecnologias e Ferramentas que conheço:**
+I have 18 years of experience in technology, including 10 years dedicated to Software Quality. I approach automation as part of a broader quality system: context first, explicit risks, evidence at the right test level, and residual risk communicated clearly.
 
-<div style="display: inline-block;">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" "width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" "width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" "width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" "width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" "width="40" height="40" />
-  
-          
-</div>
+[Portfolio](https://jonasdavila.com.br) · [LinkedIn](https://www.linkedin.com/in/jonasdavila/) · [Email](mailto:jonas.qa.software@gmail.com)
 
-### Estatísticas dos Repositórios
+## Selected work
 
-[![Estatísticas dos Repositórios](https://github-readme-stats.vercel.app/api?username=jonasqasoftware&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/jonasqasoftware)
+| Project | Problem and Quality Engineering evidence |
+| --- | --- |
+| [Reino do Recurso Real API](https://github.com/jonasqasoftware/reino-do-recurso-real-api) | Risk-based API case study with OpenAPI contract validation, security-negative scenarios, k6 performance thresholds, accessibility checks, observability, and CI. |
+| [QuickMetrics](https://github.com/jonasqasoftware/quickmetrics-project) | Decision lab that calculates traceable test signals from explicit inputs and compares them with contextual thresholds instead of universal quality targets. |
+| [Safeguard Finance System](https://github.com/jonasqasoftware/safeguard-finance-system) | Security-focused API lab under active recovery, with a documented threat model and executable negative testing proposed in an open pull request. |
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasqasoftware&layout=compact&langs_count=7&theme=dracula)](https://github.com/jonasqasoftware)
+These are portfolio laboratories and case studies. They demonstrate technical decisions and reproducible evidence; they are not presented as client work or production results.
 
+## How I work
 
-**Contatos:**
+- Start with product context, critical flows, failure impact, and uncertainty.
+- Select the fastest reliable test level for each risk.
+- Design API, UI, contract, performance, accessibility, and security checks only where they improve confidence.
+- Keep test data controlled, automation isolated, and CI evidence actionable.
+- Use metrics to support decisions, not to reward activity or maximize vanity numbers.
+- Apply AI to risk analysis and test design with human review, privacy boundaries, and deterministic fallback.
+- Communicate what was tested, what the evidence supports, and what remains unknown.
 
-<div>
-  <a href="https://www.linkedin.com/in/jonasdavila/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-  </a>
-  <a href="mailto:jonas.qa.software@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  </a>
-</div>
+## Technical focus
 
-**Curiosidade:**
+- **Automation:** Cypress, Playwright, Selenium, Appium, Robot Framework
+- **API and performance:** REST, Postman, contract testing, k6, JMeter
+- **Languages:** JavaScript, TypeScript, Java, Python, Go, PowerShell, SQL
+- **Delivery:** GitHub Actions, Jenkins, Docker, CI/CD
+- **Quality practices:** risk-based testing, BDD, TDD, ATDD, OWASP, WCAG, Axe, quality metrics
 
-- Sou um entusiasta da diversidade e inclusão na área de tecnologia. ✨
+## Em português
 
-**Propósito:**
+Sou Senior QA Engineer com foco em estratégia de qualidade, automação sustentável e decisões baseadas em riscos e evidências. Tenho 18 anos de atuação em tecnologia, sendo 10 dedicados à Qualidade de Software. Os projetos destacados neste perfil são laboratórios técnicos e estudos de caso, com escopo e limitações documentados de forma transparente.
 
-- Estou comprometido em aprender e crescer continuamente, buscando sempre oportunidades para contribuir e fazer a diferença na comunidade de tecnologia. 🚀🌍
-
-**Divirta-se explorando meu perfil e não hesite em entrar em contato!** 😊
+I value inclusive engineering environments, clear technical communication, and quality practices that help teams learn—not merely pass a pipeline.
