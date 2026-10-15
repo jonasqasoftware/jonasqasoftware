@@ -8,7 +8,7 @@
 
 Ajudo equipes a tornar decisões de qualidade visíveis, testáveis e proporcionais ao risco. Meu trabalho conecta estratégia de testes, automação sustentável, qualidade de APIs, desempenho, acessibilidade, segurança, CI/CD e métricas de engenharia úteis.
 
-Tenho 18 anos de experiência em tecnologia, sendo 10 dedicados à Qualidade de Software. Abordo a automação como parte de um sistema de qualidade mais amplo: contexto em primeiro lugar, riscos explícitos, evidências no nível de teste adequado e comunicação clara do risco residual.
+Tenho mais de 17 anos de experiência em tecnologia, sendo 10 dedicados à Qualidade de Software. Abordo a automação como parte de um sistema de qualidade mais amplo: contexto em primeiro lugar, riscos explícitos, evidências no nível de teste adequado e comunicação clara do risco residual.
 
 [Portfólio](https://jonasdavila.com.br) · [Portfolio in English](https://jonasdavila.com.br/en/) · [LinkedIn](https://www.linkedin.com/in/jonasdavila/) · [E-mail](mailto:jonas.qa.software@gmail.com)
 
@@ -29,25 +29,33 @@ Tenho 18 anos de experiência em tecnologia, sendo 10 dedicados à Qualidade de 
 
 | Projeto | Problema e evidências de Engenharia de Qualidade |
 | --- | --- |
-| [Reino do Recurso Real API](https://github.com/jonasqasoftware/reino-do-recurso-real-api) | Estudo de caso de API baseado em risco, com validação de contratos OpenAPI, cenários negativos de segurança, limites de desempenho com k6, verificações de acessibilidade, observabilidade e CI. |
+| [API Quality Engineering Lab](https://github.com/jonasqasoftware/api-quality-engineering-lab) | Estudo de caso de API baseado em risco, com validação de contratos OpenAPI, cenários negativos de segurança, limites de desempenho com k6, verificações de acessibilidade, observabilidade e CI. |
 | [QuickMetrics](https://github.com/jonasqasoftware/quickmetrics-project) | Laboratório de decisão que calcula sinais de teste rastreáveis a partir de entradas explícitas e os compara com limites contextuais, em vez de metas universais de qualidade. |
 | [Safeguard Finance System](https://github.com/jonasqasoftware/safeguard-finance-system) | Laboratório de API transacional com foco em segurança, modelagem de ameaças, controles defensivos e testes negativos executáveis. |
 | [Quality Change Intelligence Lab](https://github.com/jonasqasoftware/quality-change-intelligence-lab) | Laboratório de planejamento de testes baseado em risco para decisões transparentes sobre o impacto das mudanças e o risco residual. |
+| [SQL Quality Checker](https://github.com/jonasqasoftware/sql-quality-checker) | Laboratório que executa regras de negócio de e-commerce em SQL sobre um banco SQLite sintético e gera relatórios CSV e HTML de inconsistências, com CI e artefatos reproduzíveis. |
 
 Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões técnicas e evidências reproduzíveis; não são apresentados como trabalho para clientes nem como resultados de produção.
 
 ## Evidências automatizadas
 
-[![CI do Reino do Recurso Real API](https://github.com/jonasqasoftware/reino-do-recurso-real-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/reino-do-recurso-real-api/actions/workflows/ci.yml?query=branch%3Amain)
+[![Quality gates do API Quality Engineering Lab](https://github.com/jonasqasoftware/api-quality-engineering-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/api-quality-engineering-lab/actions/workflows/ci.yml?query=branch%3Amain)
 [![Qualidade do QuickMetrics](https://github.com/jonasqasoftware/quickmetrics-project/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/quickmetrics-project/actions/workflows/quality.yml?query=branch%3Amain)
 [![Qualidade e segurança do Safeguard Finance System](https://github.com/jonasqasoftware/safeguard-finance-system/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/safeguard-finance-system/actions/workflows/quality.yml?query=branch%3Amain)
 [![Qualidade do Quality Change Intelligence Lab](https://github.com/jonasqasoftware/quality-change-intelligence-lab/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/quality-change-intelligence-lab/actions/workflows/quality.yml?query=branch%3Amain)
+[![Verificações SQL do SQL Quality Checker](https://github.com/jonasqasoftware/sql-quality-checker/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/sql-quality-checker/actions/workflows/quality.yml?query=branch%3Amain)
 
-## Linguagens mais presentes nos projetos públicos
+## Linguagens e ferramentas por projeto
 
-[![Linguagens mais presentes nos projetos públicos](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasqasoftware&layout=compact&langs_count=6&locale=pt-br&custom_title=Linguagens%20mais%20presentes%20nos%20projetos%20p%C3%BAblicos&size_weight=0.5&count_weight=0.5&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+| Projeto | Stack principal |
+| --- | --- |
+| API Quality Engineering Lab | Node.js, OpenAPI, k6, GitHub Actions |
+| Safeguard Finance System | Node.js, testes negativos de segurança, GitHub Actions |
+| Quality Change Intelligence Lab | Go, GitHub Actions |
+| QuickMetrics | Go, painel web acessível, GitHub Actions |
+| SQL Quality Checker | Python, SQL (SQLite), GitHub Actions |
 
-> A visualização indica a distribuição de código nos repositórios públicos próprios; não representa nível de domínio nem contribuições em repositórios de terceiros.
+> A tabela indica o que cada laboratório usa; não representa nível de domínio nem contribuições em repositórios de terceiros.
 
 ## Como trabalho
 
