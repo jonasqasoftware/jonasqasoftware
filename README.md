@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Jonas Davila: engenharia de qualidade com evidência, clareza e método" width="100%">
+</p>
+
 # Jonas Davila da Silva
 
 ## Engenheiro Sênior de QA · Engenharia de Qualidade · Estratégia de Testes
@@ -6,7 +10,9 @@ Ajudo equipes a tornar decisões de qualidade visíveis, testáveis e proporcion
 
 Tenho 18 anos de experiência em tecnologia, sendo 10 dedicados à Qualidade de Software. Abordo a automação como parte de um sistema de qualidade mais amplo: contexto em primeiro lugar, riscos explícitos, evidências no nível de teste adequado e comunicação clara do risco residual.
 
-[Portfólio](https://jonasdavila.com.br) · [LinkedIn](https://www.linkedin.com/in/jonasdavila/) · [E-mail](mailto:jonas.qa.software@gmail.com)
+[Portfólio](https://jonasdavila.com.br) · [Portfolio in English](https://jonasdavila.com.br/en/) · [LinkedIn](https://www.linkedin.com/in/jonasdavila/) · [E-mail](mailto:jonas.qa.software@gmail.com)
+
+> **In English:** Senior QA Engineer focused on risk-based test strategy, sustainable automation, API quality, performance and CI/CD. The projects below are portfolio labs with reproducible evidence, not client work.
 
 ## Tecnologias demonstradas
 
@@ -62,3 +68,7 @@ Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões t
 - **Práticas de qualidade:** testes baseados em risco, BDD, TDD, ATDD, OWASP, WCAG, Axe e métricas de qualidade
 
 Valorizo ambientes de engenharia inclusivos, comunicação técnica clara e práticas de qualidade que ajudam as equipes a aprender — e não apenas a cumprir um pipeline.
+
+## Vamos conversar?
+
+Se algum destes laboratórios dialoga com um problema de qualidade da sua equipe, escreva por [e-mail](mailto:jonas.qa.software@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/jonasdavila/).
