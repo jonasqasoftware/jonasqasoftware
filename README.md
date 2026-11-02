@@ -10,9 +10,16 @@ Ajudo equipes a tornar decisões de qualidade visíveis, testáveis e proporcion
 
 Tenho mais de 17 anos de experiência em tecnologia, sendo 10 dedicados à Qualidade de Software. Abordo a automação como parte de um sistema de qualidade mais amplo: contexto em primeiro lugar, riscos explícitos, evidências no nível de teste adequado e comunicação clara do risco residual.
 
-[Portfólio](https://jonasdavila.com.br) · [Portfolio in English](https://jonasdavila.com.br/en/) · [LinkedIn](https://www.linkedin.com/in/jonasdavila/) · [E-mail](mailto:jonas.qa.software@gmail.com)
+<p>
+  <a href="https://jonasdavila.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-1E2024?style=flat-square&logoColor=white" alt="Portfólio"></a>
+  <a href="https://jonasdavila.com.br/en/"><img src="https://img.shields.io/badge/Portfolio%20(EN)-1E2024?style=flat-square&logoColor=white" alt="Portfolio in English"></a>
+  <a href="https://www.linkedin.com/in/jonasdavila/"><img src="https://img.shields.io/badge/LinkedIn-2E5B88?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:jonas.qa.software@gmail.com"><img src="https://img.shields.io/badge/E--mail-A8432F?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
 > **In English:** Senior QA Engineer focused on risk-based test strategy, sustainable automation, API quality, performance and CI/CD. The projects below are portfolio labs with reproducible evidence, not client work.
+
+---
 
 ## Tecnologias demonstradas
 
@@ -24,6 +31,8 @@ Tenho mais de 17 anos de experiência em tecnologia, sendo 10 dedicados à Quali
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></a>
   <a href="https://owasp.org/"><img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"></a>
 </p>
+
+---
 
 ## Trabalhos selecionados
 
@@ -37,6 +46,8 @@ Tenho mais de 17 anos de experiência em tecnologia, sendo 10 dedicados à Quali
 
 Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões técnicas e evidências reproduzíveis; não são apresentados como trabalho para clientes nem como resultados de produção.
 
+---
+
 ## Evidências automatizadas
 
 [![Quality gates do API Quality Engineering Lab](https://github.com/jonasqasoftware/api-quality-engineering-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/api-quality-engineering-lab/actions/workflows/ci.yml?query=branch%3Amain)
@@ -44,6 +55,8 @@ Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões t
 [![Qualidade e segurança do Safeguard Finance System](https://github.com/jonasqasoftware/safeguard-finance-system/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/safeguard-finance-system/actions/workflows/quality.yml?query=branch%3Amain)
 [![Qualidade do Quality Change Intelligence Lab](https://github.com/jonasqasoftware/quality-change-intelligence-lab/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/quality-change-intelligence-lab/actions/workflows/quality.yml?query=branch%3Amain)
 [![Verificações SQL do SQL Quality Checker](https://github.com/jonasqasoftware/sql-quality-checker/actions/workflows/quality.yml/badge.svg?branch=main)](https://github.com/jonasqasoftware/sql-quality-checker/actions/workflows/quality.yml?query=branch%3Amain)
+
+---
 
 ## Linguagens e ferramentas por projeto
 
@@ -57,6 +70,8 @@ Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões t
 
 > A tabela indica o que cada laboratório usa; não representa nível de domínio nem contribuições em repositórios de terceiros.
 
+---
+
 ## Como trabalho
 
 - Começo pelo contexto do produto, fluxos críticos, impacto de falhas e incertezas.
@@ -66,6 +81,8 @@ Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões t
 - Uso métricas para apoiar decisões, não para recompensar atividade ou maximizar números de vaidade.
 - Aplico IA à análise de riscos e ao desenho de testes com revisão humana, limites de privacidade e alternativas determinísticas.
 - Comunico o que foi testado, o que as evidências sustentam e o que permanece desconhecido.
+
+---
 
 ## Foco técnico
 
@@ -77,6 +94,13 @@ Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões t
 
 Valorizo ambientes de engenharia inclusivos, comunicação técnica clara e práticas de qualidade que ajudam as equipes a aprender — e não apenas a cumprir um pipeline.
 
+---
+
 ## Vamos conversar?
 
-Se algum destes laboratórios dialoga com um problema de qualidade da sua equipe, escreva por [e-mail](mailto:jonas.qa.software@gmail.com) ou pelo [LinkedIn](https://www.linkedin.com/in/jonasdavila/).
+Se algum destes laboratórios dialoga com um problema de qualidade da sua equipe:
+
+<p>
+  <a href="mailto:jonas.qa.software@gmail.com"><img src="https://img.shields.io/badge/E--mail-A8432F?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/jonasdavila/"><img src="https://img.shields.io/badge/LinkedIn-2E5B88?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
