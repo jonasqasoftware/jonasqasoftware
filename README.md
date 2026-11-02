@@ -36,13 +36,13 @@ Tenho mais de 17 anos de experiência em tecnologia, sendo 10 dedicados à Quali
 
 ## Trabalhos selecionados
 
-| Projeto | Problema e evidências de Engenharia de Qualidade |
-| --- | --- |
-| [API Quality Engineering Lab](https://github.com/jonasqasoftware/api-quality-engineering-lab) | Estudo de caso de API baseado em risco, com validação de contratos OpenAPI, cenários negativos de segurança, limites de desempenho com k6, verificações de acessibilidade, observabilidade e CI. |
-| [QuickMetrics](https://github.com/jonasqasoftware/quickmetrics-project) | Laboratório de decisão que calcula sinais de teste rastreáveis a partir de entradas explícitas e os compara com limites contextuais, em vez de metas universais de qualidade. |
-| [Safeguard Finance System](https://github.com/jonasqasoftware/safeguard-finance-system) | Laboratório de API transacional com foco em segurança, modelagem de ameaças, controles defensivos e testes negativos executáveis. |
-| [Quality Change Intelligence Lab](https://github.com/jonasqasoftware/quality-change-intelligence-lab) | Laboratório de planejamento de testes baseado em risco para decisões transparentes sobre o impacto das mudanças e o risco residual. |
-| [SQL Quality Checker](https://github.com/jonasqasoftware/sql-quality-checker) | Laboratório que executa regras de negócio de e-commerce em SQL sobre um banco SQLite sintético e gera relatórios CSV e HTML de inconsistências, com CI e artefatos reproduzíveis. |
+| Projeto | Foco | Problema e evidências de Engenharia de Qualidade |
+| --- | --- | --- |
+| [Safeguard Finance System](https://github.com/jonasqasoftware/safeguard-finance-system) | Segurança · Modelagem de ameaças | Laboratório de API transacional com foco em segurança, modelagem de ameaças, controles defensivos e testes negativos executáveis. |
+| [API Quality Engineering Lab](https://github.com/jonasqasoftware/api-quality-engineering-lab) | Risco · Segurança · Desempenho | Estudo de caso de API baseado em risco, com validação de contratos OpenAPI, cenários negativos de segurança, limites de desempenho com k6, verificações de acessibilidade, observabilidade e CI. |
+| [Quality Change Intelligence Lab](https://github.com/jonasqasoftware/quality-change-intelligence-lab) | Risco de mudança | Laboratório de planejamento de testes baseado em risco para decisões transparentes sobre o impacto das mudanças e o risco residual. |
+| [QuickMetrics](https://github.com/jonasqasoftware/quickmetrics-project) | Métricas · Decisão | Laboratório de decisão que calcula sinais de teste rastreáveis a partir de entradas explícitas e os compara com limites contextuais, em vez de metas universais de qualidade. |
+| [SQL Quality Checker](https://github.com/jonasqasoftware/sql-quality-checker) | Dados · Qualidade | Laboratório que executa regras de negócio de e-commerce em SQL sobre um banco SQLite sintético e gera relatórios CSV e HTML de inconsistências, com CI e artefatos reproduzíveis. |
 
 Estes são laboratórios de portfólio e estudos de caso. Demonstram decisões técnicas e evidências reproduzíveis; não são apresentados como trabalho para clientes nem como resultados de produção.
 
